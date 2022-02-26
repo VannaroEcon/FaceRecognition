@@ -1,5 +1,5 @@
 # Face Recognition with OpenCV and face-recognition
-This repository contains the script to detect the face recognition with OpenCV and face-recognition.
+This repository contains the script to detect the face with OpenCV and face-recognition.
 The importance point of this project is the fact that we detect and get only good faces (eyes open
 and not blurred).
 
